@@ -45,7 +45,7 @@ calibración y rectificación de los campos de luz obtenidos por esta plenóptic
 
 ## Implementación Raytrix R42:
 ### Descripción general del algoritmo implementado:
-    Este algoritmo se basa en la obtención, el procesamiento y la visualización de campos de luz antes y después de pasar por la implementación de distintos filtros de reenfoque sintético.
+Este algoritmo se basa en la obtención, el procesamiento y la visualización de campos de luz antes y después de pasar por la implementación de distintos filtros de reenfoque sintético.
 ### Entradas:
    -   Campo de luz en notación de Levoy.
    -   Pendiente y ancho de banda para los filtros de reenfoque.
