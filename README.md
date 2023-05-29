@@ -59,5 +59,5 @@ Este algoritmo se basa en la obtención, el procesamiento y la visualización de
    Se recomienda leer el "Manual para el uso de las librerías de LightField Toolbox.pdf" antes de usar esta implementación. El archivo se puede encontrar en la pagina de sharepoint o en el Repositorio en la carpeta “Documentación”.
    Link sharepoint:
    - https://livejaverianaedu.sharepoint.com/sites/FotografaPlenoptica2/Manual20Para%20el%20manejo%20de%20las%20Libreras%20de%20LFToolbox/Forms/AllItems.aspx
-    ### Para descargar las imágenes usadas como ejemplo (Las imágenes estan en sus respectivas carpetas):
+### Para descargar las imágenes usadas como ejemplo (Las imágenes estan en sus respectivas carpetas):
    - 
