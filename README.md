@@ -43,12 +43,12 @@ Este algoritmo se basa en la obtención, el procesamiento y la visualización de
 Este algoritmo se basa en la obtención, el procesamiento y la visualización de campos de luz antes y después de pasar por la implementación de distintos filtros de reenfoque sintético.
 ### Entradas:
    -   Campo de luz en notación de Levoy.
-####   -   Pendiente y ancho de banda para los filtros de reenfoque:
-      -   ShiftSumSlope1, ShiftSumSlope2.
-      -   PlanarSlope.
-      -   PlanarBW.
-      -   HyperfanSlope1, HyperfanSlope2.
-      -   HyperfanBW.
+   -   Pendiente y ancho de banda para los filtros de reenfoque:
+       -   ShiftSumSlope1, ShiftSumSlope2.
+       -   PlanarSlope.
+       -   PlanarBW.
+       -   HyperfanSlope1, HyperfanSlope2.
+       -   HyperfanBW.
 
 ### Salidas:
    -   Imágenes con alguna variación de reenfoque.
@@ -59,4 +59,5 @@ Este algoritmo se basa en la obtención, el procesamiento y la visualización de
    Se recomienda leer el "Manual para el uso de las librerías de LightField Toolbox.pdf" antes de usar esta implementación. El archivo se puede encontrar en la pagina de sharepoint o en el Repositorio en la carpeta “Documentación”.
    Link sharepoint:
    - https://livejaverianaedu.sharepoint.com/sites/FotografaPlenoptica2/Manual20Para%20el%20manejo%20de%20las%20Libreras%20de%20LFToolbox/Forms/AllItems.aspx
+    ### Para descargar las imágenes usadas como ejemplo (Las imágenes estan en sus respectivas carpetas):
    - 
