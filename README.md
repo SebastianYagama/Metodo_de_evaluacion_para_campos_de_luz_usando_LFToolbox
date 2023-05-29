@@ -18,12 +18,7 @@ Estos metodos se implementaron para la versión 0.5 de lightfield Toolbox.
 
 ## Implementación Lytro:
 ### Descripción general del algoritmo implementado:
-   Este algoritmo se basa en la obtención, el procesamiento y la visualización 
-de campos de luz antes y después de pasar por la implementación de distintos 
-filtros de reenfoque sintético. Adicionalmente, el algoritmo cuenta con la 
-obtención y creación de imágenes blancas obtenidas desde la aplicación para
-la cámara Lytro y, por otra parte, este cuanta con la decodificación, 
-calibración y rectificación de los campos de luz obtenidos por esta plenóptica.
+Este algoritmo se basa en la obtención, el procesamiento y la visualización de campos de luz antes y después de pasar por la implementación de distintos filtros de reenfoque sintético. Adicionalmente, el algoritmo cuenta con la obtención y creación de imágenes blancas obtenidas desde la aplicación para la cámara Lytro y, por otra parte, este cuanta con la decodificación, calibración y rectificación de los campos de luz obtenidos por esta plenóptica.
 
 ### Entradas:
    -   DirLF = Archivo .lfr que contiene el campo de luz en bruto.  
@@ -48,7 +43,7 @@ calibración y rectificación de los campos de luz obtenidos por esta plenóptic
 Este algoritmo se basa en la obtención, el procesamiento y la visualización de campos de luz antes y después de pasar por la implementación de distintos filtros de reenfoque sintético.
 ### Entradas:
    -   Campo de luz en notación de Levoy.
-   -   Pendiente y ancho de banda para los filtros de reenfoque.
+####   -   Pendiente y ancho de banda para los filtros de reenfoque:
       -   ShiftSumSlope1, ShiftSumSlope2.
       -   PlanarSlope.
       -   PlanarBW.
